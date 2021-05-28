@@ -80,7 +80,7 @@ nav a:hover::before {
 }
 
 .row {
-  margin: 20px;
+  margin: 100px;
   text-align: center;
   display: flex;
   flex-wrap: wrap;
